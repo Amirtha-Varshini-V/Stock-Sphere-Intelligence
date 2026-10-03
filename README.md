@@ -16,7 +16,7 @@ This project is designed to showcase skills relevant to MIS Executive, Reporting
 - Monthly Stock In vs Stock Out Trend Analysis.
 - Category-wise Inventory Value Distribution.
 - Reorder Item Monitoring.
-- Interactive Slicers for Year, Month, Product, and Category.
+- Interactive Slicers for Year, Month, Product, Category, Stock In and Stock Out.
 
 🛠️ Tools & Skills
 
